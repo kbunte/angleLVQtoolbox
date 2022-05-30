@@ -2,6 +2,8 @@
 
 angle LVQ toolbox
 
+The code will be made available with acceptance of the corresponding paper.
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
